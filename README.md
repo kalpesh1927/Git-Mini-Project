@@ -8,6 +8,13 @@ This project demonstrates my skills in Git for version control and collaboration
 - **Branching & Merging**: Practiced Git branching strategies, including feature branches and merging.
 - **GitHub Synchronization**: Pushed code to GitHub, ensuring version control and collaboration.
 
+## Tools & Technologies Used
+- **Git**: Version control for managing code and collaborating with others.
+- **GitHub**: Remote repository hosting and collaboration.
+- **Git Branching & Merging**: Organized code with branching strategies and merged changes smoothly.
+- **GitHub Actions**: Set up workflows for continuous integration (if applicable).
+
+
 ## Getting Started
 To use this repository locally, follow these steps:
 
