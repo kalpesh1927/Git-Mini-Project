@@ -1,7 +1,3 @@
-# Git-Mini-Project
-A project showcasing version control skills with Git, including branching, merging, and synchronization with GitHub.
-
-
 # Git Mini-Project: Version Control Mastery
 
 ## Overview
@@ -17,4 +13,4 @@ To use this repository locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kksworld1927/Git-Mini-Project.git
+   git clone https://github.com/kalpesh1927/Git-Mini-Project.git
